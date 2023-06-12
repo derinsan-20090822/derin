@@ -1,4 +1,3 @@
-
-height=170
+height=160
 print(height)
-170
+160
